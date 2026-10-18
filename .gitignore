@@ -1,0 +1,11 @@
+# Arquivos sensíveis
+.env
+
+# Arquivos temporários
+*.ogg
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+*.pyc
+.DS_Store
